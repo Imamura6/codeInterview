@@ -105,8 +105,8 @@ Make sure the contents of the matching files are changed in-place.
 
 ### <u>Instructions</u>
 1. Copy the Order files from Problem 3 folder:
-    [C++](https://github.com/Imamura6/codeInterview/tree/master/JuniorInterview/C%2B%2B/Problem3).
-    [Python](https://github.com/Imamura6/codeInterview/blob/master/JuniorInterview/Python/Problem3/orders.py).
+    - [C++](https://github.com/Imamura6/codeInterview/tree/master/JuniorInterview/C%2B%2B/Problem3).
+    - [Python](https://github.com/Imamura6/codeInterview/blob/master/JuniorInterview/Python/Problem3/orders.py).
 2. This files are the input files that should be used in the program.
 
 ### <u>Problem</u>
