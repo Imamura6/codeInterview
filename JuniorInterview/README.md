@@ -62,7 +62,7 @@ You can solve the problems in which order you prefer.
 
 #### Bubble Sort simulation example
 
-![](https://miro.medium.com/v2/resize:fit:600/format:webp/1*bmfRxyIQZEK0Iu5T6YV1sw.gif)
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*7seGXJi3te9beNfpAvFXEQ.gif)
 
 #### Selection Sort simulation example
 
