@@ -53,8 +53,8 @@ You can solve the problems in which order you prefer.
 ### <u>Instructions</u>
 
 1. Copy the Problem 1 code:
-    - [C++](https://github.com/Imamura6/codeInterview/raw/main/JuniorInterview/C++/Problem1).
-    - [Python](https://github.com/Imamura6/codeInterview/raw/main/JuniorInterview/Python/Problem1).
+    - [C++](https://github.com/Imamura6/codeInterview/blob/master/JuniorInterview/C%2B%2B/Problem1/sorter.cpp).
+    - [Python](https://github.com/Imamura6/codeInterview/blob/master/JuniorInterview/Python/Problem1/sorter.py).
 2. Create a OneCompiler of selected language:
     - [OneCompiler C++](https://onecompiler.com/cpp)
     - [OneCompiler Python](https://onecompiler.com/python)
@@ -88,7 +88,7 @@ c. (Optional) After fix the errors, you can improve the code quality to make it 
 ### Instructions
 
 1. Create a new [One Compiler bash](https://onecompiler.com/bash).
-2. Paste the [Problem 2](https://github.com/Imamura6/codeInterview/raw/main/JuniorInterview/Bash/Problem2) code
+2. Paste the [Problem 2](https://github.com/Imamura6/codeInterview/blob/master/JuniorInterview/Bash/Problem2/linux.sh) code
 
 ### <u>Problem</u>
 
@@ -105,8 +105,8 @@ Make sure the contents of the matching files are changed in-place.
 
 ### <u>Instructions</u>
 1. Copy the Order files from Problem 3 folder:
-    [C++](https://github.com/Imamura6/codeInterview/raw/main/JuniorInterview/C++/Problem3).
-    [Python](https://github.com/Imamura6/codeInterview/raw/main/JuniorInterview/Python/Problem3).
+    [C++](https://github.com/Imamura6/codeInterview/tree/master/JuniorInterview/C%2B%2B/Problem3).
+    [Python](https://github.com/Imamura6/codeInterview/blob/master/JuniorInterview/Python/Problem3/orders.py).
 2. This files are the input files that should be used in the program.
 
 ### <u>Problem</u>
