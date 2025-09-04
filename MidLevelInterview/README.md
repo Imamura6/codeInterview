@@ -76,7 +76,7 @@ b. Fix all logical errors so the array is sorted from the smaller number to the 
 
 ---
 
-## Problem 2 - Bash
+## Problem 2 - Linux
 
 ### Instructions
 
