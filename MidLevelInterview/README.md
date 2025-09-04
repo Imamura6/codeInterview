@@ -74,8 +74,6 @@ a. Fix all the errors. So the program compile.
 
 b. Fix all logical errors so the array is sorted from the smaller number to the greater number.
 
-c. (Optional) After fix the errors, you can improve the code quality to make it easier to read, more organized, or even more optimized.
-
 ---
 
 ## Problem 2 - Bash
