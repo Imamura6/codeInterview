@@ -87,10 +87,10 @@ b. Fix all logical errors so the array is sorted from the smaller number to the 
 ### <u>Problem</u>
 
 Design a simple class hierarchy for geometric shapes (Shape, Circle, Rectangle).
-    - Each shape should be able to compute its area via a virtual method.
-    - It should be possible to change and get the shape color via virtual method (needs to be thread safe)
-    - Write the interface and at least one derived class.
-    - Demonstrate usage in a main function.
+- Each shape should be able to compute its area via a virtual method.
+- It should be possible to change and get the shape color via virtual method (needs to be thread safe)
+- Write the interface and at least one derived class.
+- Demonstrate usage in a main function.
 
 ---
 
